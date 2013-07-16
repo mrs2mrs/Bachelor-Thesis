@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DataToXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <combinedSolutions>
+    <Solution>
+      <description>ala</description>
+      <relaySolutions />
+      <userSolutions />
+    </Solution>
+  </combinedSolutions>
+</DataToXML>
